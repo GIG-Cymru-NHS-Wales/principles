@@ -1,7 +1,6 @@
 # Principles
 
-Principles in various areas. The purpose of this repo is for people and teams to have ideas for creating their own principles. These summaries are provided by ChatGPT, to help start discussions.
-
+Principles in various areas. The purpose of this repo is for people and teams to have ideas for creating their own principles. 
 - [Ethical principles](#ethical-principles)
 - [Teamwork principles](#teamwork-principles)
 - [Leadership principles](#leadership-principles)
@@ -9,6 +8,8 @@ Principles in various areas. The purpose of this repo is for people and teams to
 - [Project management principles](#project-management-principles)
 - [UI/UX design principles](#uiux-design-principles)
 - [Software programming principles](#software-programming-principles)
+
+These summaries are sourced from [https://github.com/joelparkerhenderson/principles] and are explained by ChatGPT for the purpose of helping start discussions.
 
 
 ## Ethical principles
